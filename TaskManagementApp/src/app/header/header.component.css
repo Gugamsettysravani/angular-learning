@@ -1,0 +1,23 @@
+header{
+display: flex;
+flex-direction: column;
+align-items: center;
+width:90%;
+border: 1px solid palevioletred;
+border-radius: 10px;
+background-color:palevioletred;
+padding:3px;
+margin:4px;
+}
+h1{
+font-size: 20px;
+color: azure;
+}
+p{
+font-size: 15px;
+color:azure;
+margin-left:10px;
+}
+img{
+ width:50px;
+}
