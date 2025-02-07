@@ -5,11 +5,12 @@
     text-align: center;
     position: fixed;
     bottom: 0;
-    width: 90%;
+    width: 100%;
     border-radius: 10px;
     background-color:palevioletred;
     padding:3px;
     margin:4px;
+    position: fixed;
   }
   
   .footer-content {
