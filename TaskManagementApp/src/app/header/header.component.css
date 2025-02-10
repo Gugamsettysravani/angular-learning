@@ -20,4 +20,5 @@ margin-left:10px;
 }
 img{
  width:50px;
+ object-fit: contain;
 }
